@@ -1,0 +1,19 @@
+{
+  "name": "yd-client-hunt",
+  "version": "1.0.0",
+  "description": "client hunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashwanth-Damera/yd-client-hunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yashwanth-Damera/yd-client-hunt/issues"
+  },
+  "homepage": "https://github.com/Yashwanth-Damera/yd-client-hunt#readme"
+}
