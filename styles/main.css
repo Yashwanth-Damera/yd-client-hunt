@@ -4,3 +4,10 @@ article {
     color: green;
     margin-top: 10em;
 }
+
+.name {
+    font-size: larger;
+    text-align: center;
+    color: black;
+    margin-top: 10em;
+}
