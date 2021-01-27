@@ -2,8 +2,8 @@
 export default [
     {
         Name: 'Randolph Road',
-        Latitude: 39.1616601,
-        Longitude: -94.4902875
+        Latitude: 39.161534,
+        Longitude: -94.494551
     },
     {
         Name: 'Wyandotte Street',
